@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Vantage Point Frontend(react)",
+        "path": "",
+        "type": "React"
+    },
+    {
+        "name": "Vantage Point Backend(nodejs)",
+        "path": "",
+        "type": "Node.js"
+    }
+]
